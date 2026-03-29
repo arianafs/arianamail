@@ -24,7 +24,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
+git clone https://github.com/arianafs/arianamail
 
 ```
 
