@@ -1,0 +1,2 @@
+# arianamail
+Script termux
